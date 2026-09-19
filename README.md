@@ -318,4 +318,4 @@ ID    PRODUCTO                       CANTIDAD
 ```
 ### Uso de inteligencia artificial
 
-Se utilizó ChatGPT como herramienta de apoyo para comprender el enunciado, resolver dudas sobre la implementación en Java, la estructura del proyecto y el uso de Git y Maven. También se utilizó para revisar la implementación y detectar posibles errores. El estudiante revisó, comprendió y ejecutó el código.
+Utilicé ChatGPT como herramienta de apoyo para comprender el enunciado, resolver dudas sobre la implementación en Java, la estructura del proyecto y el uso de Git y Maven. También lo utilicé para revisar mi implementación y detectar posibles errores. Revisé, comprendí y ejecuté el código antes de integrarlo al proyecto.
