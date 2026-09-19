@@ -296,14 +296,26 @@ git push origin main
 
 ## Parcial 2 — Consumo de API (completar por el estudiante)
 
-**Nombre:** _________________________________ · **Carnet:** ______________
+**Nombre:** Adriana Melissa Roque De Paz · **Carnet:** 2506742022
 
 ### Salida de consola (segunda ejecución)
 
 ```
-(pegue aquí la salida completa de la segunda ejecución de Main)
-```
+Sincronizacion con la API -> insertados: 0 | actualizados: 10
 
+--- Inventario sincronizado ---
+ID    PRODUCTO                       CANTIDAD
+1     Essence Mascara Lash Princess  99
+2     Eyeshadow Palette with Mirror   34
+3     Powder Canister                 89
+4     Red Lipstick                    91
+5     Red Nail Polish                 27
+6     Calvin Klein CK One             29
+7     Chanel Coco Noir Eau De         58
+8     Dior J'adore                    98
+9     Dolce Shine Eau de              4
+10    Gucci Bloom Eau de              91
+```
 ### Uso de inteligencia artificial
 
-(Declare si utilizó alguna herramienta de IA, cuál y para qué. Si no la utilizó, indíquelo.)
+Se utilizó ChatGPT como herramienta de apoyo para comprender el enunciado, resolver dudas sobre la implementación en Java, la estructura del proyecto y el uso de Git y Maven. También se utilizó para revisar la implementación y detectar posibles errores. El estudiante revisó, comprendió y ejecutó el código.
